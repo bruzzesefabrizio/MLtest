@@ -1,0 +1,27 @@
+{
+    "name": "MLtest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "start": "node ./index.js",
+      "test": "jest --config ./jest-config.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bruzzesefabrizio/MLtest.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/bruzzesefabrizio/MLtest/issues"
+    },
+    "homepage": "https://github.com/bruzzesefabrizio/MLtest#readme",
+    "dependencies": {
+      "body-parser": "^1.18.3",
+      "express": "^4.16.4",
+      "jest": "^23.6.0"
+    }
+  }
+  
